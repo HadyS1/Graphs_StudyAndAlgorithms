@@ -1,1 +1,1 @@
-25 questions to better understand graphs, both directed and undirected, search algorithms related to graphs, and their different representations on Python
+25 questions to better understand graphs, both directed and undirected, Search Algorithms related to graphs and shortest paths, and their different representations on Python.
